@@ -1,7 +1,5 @@
 # Computer-Vision-
 Image Similarity using CNN and Keras
-The main working model is Keras CNN 
-CAE is a work in progress to implement autoencoders
 
 # Links to Datasets
 
